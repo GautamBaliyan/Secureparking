@@ -1,5 +1,8 @@
 # secureparking
 The Project is based on PHP, HTML, CSS, JAVASCRIPT, MYSQL Database.
+======================================================================================
+
+This is the github mirror of the official Securaparking repository located at 
 
 *This is meant to be a protocol to reserve a parking slot near by you.
 *This is meant to be store the registered user data in safe mode in the Database.
