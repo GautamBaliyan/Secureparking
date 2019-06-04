@@ -23,7 +23,20 @@ b) MySQL 5.7.21
 c) PHP 7.2.3
 
 You can download the required installer via links given below:  
-* [Download Apache for Windows:](https://www.apachelounge.com/download/ "Title") 
+* [Download Apache for Windows](https://www.apachelounge.com/download/ "Title") 
+* [Download PHP 7 for Windows (select ‘Thread Safe’)](http://windows.php.net/qa/ "Title") 
+* [Download MySQL for Windows (select ZIP Archive)](http://dev.mysql.com/downloads/mysql/ "Title") 
+
+## Server Selection:
+You can use any server package like: WAMP, XAMPP etc.  
+Here, we work with XAMPP.  
+To install XAMPP go to [here.](https://www.apachefriends.org/download.html)  
+You can use WAMPP, To install WAMPP go to [here.](http://www.wampserver.com/en/)  
+
+## Database Selection:
+
+Both server has own database like XAMPP have phpmyadmin (MYSQL).
+ 
 
 ## Network Options:
     --proxy URL                      Use the specified HTTP/HTTPS/SOCKS proxy.
